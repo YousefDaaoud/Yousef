@@ -48,29 +48,27 @@
    <li>⚡ Certificates : <code>N10-008 / eJPT / OSCP </code>!</li>
 </ul>
 <br>
-<!-- <div class="markdown-heading" dir="auto"> -->
-<!--   <h2 class="heading-element" dir="auto">☕ Support My Work</h2> -->
+<div class="markdown-heading" dir="auto">
+  <h2 class="heading-element" dir="auto">☕ Support My Work</h2>
 
   <a id="user-content--support-my-work" class="anchor" aria-label="Permalink: ☕ Support My Work" href="#-support-my-work">
-<!--     <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"> -->
-<!--       <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path> -->
-<!--     </svg> -->
-<!--   </a> -->
-<!-- </div> -->
-<!-- <a href="https://www.buymeacoffee.com/omarrhussev" target="_blank" rel="noopener noreferrer"> -->
-<!--   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"  -->
-<!--        alt="Buy Me A Coffee"  -->
-<!--        style="height: 60px !important; width: 217px !important; max-width: 100%; height: auto;"></a> -->
-<!--        <br> -->
-<!--        <br> -->
-<!-- <a href="https://www.patreon.com/OmarSakr" target="_blank" rel="noopener noreferrer"  -->
-<!--    style="display: inline-block; text-decoration: none; border-radius: 10px; overflow: hidden;  -->
-<!--           box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); transition: transform 0.2s ease, box-shadow 0.2s ease;"> -->
-<!--  <img src="https://c5.patreon.com/external/logo/become_a_patron_button.png"  -->
-<!--      alt="Become a Patron"  -->
-<!--      style="display: block; height: 60px; width: auto; max-width: 100%; height: auto; border-radius: 10px;"></a> -->
-
----
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+      <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path>
+    </svg>
+  </a>
+</div>
+<a href="https://www.buymeacoffee.com/omarrhussev" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
+       alt="Buy Me A Coffee" 
+       style="height: 60px !important; width: 217px !important; max-width: 100%; height: auto;"></a>
+       <br>
+       <br>
+<a href="https://www.patreon.com/OmarSakr" target="_blank" rel="noopener noreferrer" 
+   style="display: inline-block; text-decoration: none; border-radius: 10px; overflow: hidden; 
+          box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); transition: transform 0.2s ease, box-shadow 0.2s ease;">
+ <img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" 
+     alt="Become a Patron" 
+     style="display: block; height: 60px; width: auto; max-width: 100%; height: auto; border-radius: 10px;"></a>
 
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">📩 Connect with me</h2><a id="user-content--connect-with-me" class="anchor" aria-label="Permalink: 📩 Connect with me" href="#-connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p align="center" dir="auto">
@@ -159,7 +157,7 @@
 <div class="markdown-heading" dir="auto">
   <h2>
     <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35"> 
-    إحصائيات Yousef
+    GitHub Stat
   </h2>
 </div>
 
